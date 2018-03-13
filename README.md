@@ -1,0 +1,1 @@
+Projeto do curso Nanodegree de React, seção "React e Redux", da Udacity
